@@ -1,0 +1,7 @@
+{
+  "@@locale": "fr",
+  "homeAppbarTitle": "Page d'accueil",
+  "homeContent": "Outil pour générer automatiquement des traductions",
+  "homeNote": "Flutter Gémini est génial !",
+  "homeLongText": "Lorem ipsum est simplement un texte factice utilisé dans la composition et la mise en page avant impression. Le Lorem ipsum est le texte factice standard de l'industrie depuis les années 1500, quand un imprimeur inconnu a pris une galère de caractères et l'a mélangée pour créer un livre spécimen de polices de caractères. Il n'a pas seulement survécu pendant cinq siècles, mais aussi au saut vers la composition électronique, restant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie des feuilles Letraset contenant des passages du Lorem ipsum, et plus récemment avec les logiciels de PAO tels qu'Aldus PageMaker qui incluent des versions du Lorem ipsum"
+}

@@ -1,0 +1,7 @@
+{
+  "@@locale": "tr",
+  "homeAppbarTitle": "Ana Sayfa",
+  "homeContent": "Çevirileri otomatik olarak oluşturmak için araç",
+  "homeNote": "Flutter Gemini harika!",
+  "homeLongText": "Lorem Ipsum, matbaa ve dizgi endüstrisinde kullanılan örnek metinlerdir. Lorem Ipsum, bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstrinin standart örnek metnidir. Sadece beş yüzyıl boyunca değil, aynı zamanda elektronik dizgiye de sıçramıştır ve temelde değişmeden kalmıştır. 1960'larda Lorem Ipsum pasajlarını içeren Letraset yapraklarının piyasaya sürülmesiyle popülerleşti ve daha yakın zamanda Aldus PageMaker gibi masaüstü yayıncılık yazılımları Lorem Ipsum sürümlerini de içermeye başladı."
+}

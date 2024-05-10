@@ -1,0 +1,7 @@
+{
+  "@@locale": "ja",
+  "homeAppbarTitle": "ホーム",
+  "homeContent": "自動的に翻訳を生成するためのツール",
+  "homeNote": "Flutter Geminiはすばらしいです！",
+  "homeLongText": "Lorem Ipsumは、単に印刷および組版業界のダミーテキストです。Lorem Ipsumは、1500年代に無名の印刷業者が金属活字を集めてかき混ぜて見本のテキストを作ったときから、業界標準のダミーテキストであり続けています。500年以上も用いられてきただけでなく、組版の電子化にも耐え、本質的には変わっていません。Lorem Ipsumの一節を含むLetrasetシートが1960年代に発売され、普及しました。最近では、Lorem Ipsumのバージョンを含むAldus PageMakerのようなデスクトップパブリッシングソフトウェアでも普及しています。"
+}
