@@ -3,4 +3,4 @@ template-arb-file: app_en.arb # the template arb file
 output-localization-file: app_localizations.dart # the output file
 nullable-getter: false # whether the generated getter methods should be nullable or not
 untranslated-messages-file: untranslated_messages.json # the file that will contain the untranslated messages
-arb-translate-api-key: AIzaSyBkVohk0orlGZ0i2RLzEKepHVPDPadp3wk
+arb-translate-api-key: YOUR-API-KEY
