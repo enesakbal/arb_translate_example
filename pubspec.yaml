@@ -9,11 +9,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations: # for localization
+    sdk: flutter
+  intl: ^0.18.0 # for localization
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^3.0.1
+  arb_translate: ^0.0.1 # auto-generate localization files
 
 flutter:
   uses-material-design: true
+  generate: true # for generating l10n files
