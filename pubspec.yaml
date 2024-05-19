@@ -14,7 +14,7 @@ dependencies:
   intl: ^0.18.0 # for localization
 
 dev_dependencies:
-  flutter_lints: ^3.0.1
+  flutter_lints: ^4.0.0
   arb_translate: ^0.0.1 # auto-generate localization files
 
 flutter:
